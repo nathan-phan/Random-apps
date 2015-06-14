@@ -1,0 +1,1 @@
+App written in Javascript and Jquery, to get random jokes or quotes.

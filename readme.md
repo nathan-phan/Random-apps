@@ -1,0 +1,1 @@
+These are various apps I made from online guides and tutorials during the learning process

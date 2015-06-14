@@ -1,0 +1,65 @@
+
+ul{
+    list-style-type: none;
+}
+
+div.header{
+	margin-top:60px;
+}
+
+.select-buttons{
+	margin-top: 50px;
+	max-width: 35%;
+}
+.tab-content{
+	max-width: 35%;
+}
+.channel a{
+	color: black;
+
+}
+
+.channel{
+	display: block;
+}
+
+.list-group-item{
+	height:70px;
+	font-size: 18px;
+	border:none;
+	margin-top: 5px;
+}
+
+.logo{
+	max-height: 90%;
+	display:inline;
+}
+
+.channel_block{
+	display:inline block;
+	margin-left: 65px;
+	vertical-align: middle;
+}
+
+.channel_name{
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+
+.description{
+	color:lightgray;
+	font-size: 14px;
+	width:90%;
+	overflow: hidden;
+	display:block;
+}
+
+img.light{
+	margin-top:10px;
+}
+
+a{
+	text-decoration: none !important;
+}
+

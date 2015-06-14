@@ -1,0 +1,1 @@
+App written in JS and Jquery, showing status of specific twitch streamers
