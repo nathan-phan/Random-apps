@@ -5,9 +5,21 @@
 	margin:70px auto;
 	max-width: 50%;
 	border:5px solid lightgray;
-	padding:20px 10px;
+	padding:20px 30px;
 }
 .quote{
 	font-family: 'Cookie', cursive;
 	font-size: 35px;
+}
+
+.buttons{
+	max-width: 35%;
+	margin:auto;
+}
+
+#gen-button{
+	float: left;
+}
+#tweet-button{
+	float: right;
 }

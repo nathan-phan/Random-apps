@@ -15,5 +15,10 @@ $(document).ready(function(){
 	}	
 	generate();
 	
-	$('button').click(generate);	
+	$('#gen-button').click(generate);
+		
+	$('#tweet-button').click(function(){
+		var url='https://twitter.com/intent/tweet?text='+quoteHTML;
+		window.location = url;
+	});
 });
