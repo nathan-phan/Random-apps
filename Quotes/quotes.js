@@ -19,6 +19,6 @@ $(document).ready(function(){
 		
 	$('#tweet-button').click(function(){
 		var url='https://twitter.com/intent/tweet?text='+quoteHTML;
-		window.location = url;
+		window.open(url);
 	});
 });

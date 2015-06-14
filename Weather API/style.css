@@ -1,0 +1,10 @@
+.header{
+	margin-top:50px;
+}
+
+.weather-box{
+	border:2px solid lightgray;
+	max-width: 70%;
+	height:400px;
+	margin: 50px auto;
+}
