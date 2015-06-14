@@ -1,0 +1,18 @@
+.header{
+	margin-top:100px;
+}
+.quote-box{
+	margin:70px auto;
+	max-width: 50%;
+	border:5px solid lightgray;
+	padding:20px 10px;
+}
+.quote{
+	font-family: 'Cookie', cursive;
+	font-size: 35px;
+}
+.author{
+	padding-top: 10px;
+	font-family: 'Questrial', sans-serif;
+	font-size: 25px;
+}
