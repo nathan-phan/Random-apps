@@ -25,9 +25,11 @@ a, u {
 }
 
 .screen-num{
-        font-size:40px;
-        margin-top:20px;
-        margin-right: 10px;
+    max-width:300px;
+    font-size:40px;
+    margin-top:20px;
+    margin-right: 10px;
+    overflow: hidden;
 }
 
 .buttons{
@@ -47,6 +49,7 @@ a, u {
     height:145px;
     float: right;
     margin-top:-75px;
+    margin-right: 15px;
 }
 
 .special{
