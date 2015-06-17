@@ -1,0 +1,55 @@
+
+
+h1{	
+	font-family: cookie;
+	font-size: 50px;
+	margin: 100px auto 50px;
+	font-weight: bold;
+}
+
+.container{
+    max-width: 50%;
+}
+
+button{
+    max-width: 30%;
+    margin: 250px auto;
+}
+
+.main-timer{
+    font-size: 70px;
+    margin:auto;
+}
+
+.wrapper{
+    max-width: 40%;
+    margin:50px auto;
+}
+
+.break{
+    font-size: 50px;
+    display:inline-block;
+    float:left;
+}
+
+.break-time, .session-time{
+    display:inline;
+}
+
+#break, #session{
+    font-size: 30px;
+}
+
+.session{
+    font-size: 50px;
+    display:inline-block;
+    float:right;
+}
+.description{
+    font-size: 40px;
+}
+
+a, u {
+    text-decoration: none !important;
+    color:black;
+}
