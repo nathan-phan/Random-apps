@@ -64,7 +64,7 @@ $(document).ready(function(){
     $('.sub-break').click(function(){
         if(running!==true){
         var y = parseInt($('.break-time').html());
-            if(y>=1){
+            if(y>=2){
                 if($('.description').html()==='Break'){
                  seconds = (y-1)*60;
                 $('.main-timer').html(displayTime(seconds));
@@ -85,7 +85,7 @@ $(document).ready(function(){
     $('.sub-session').click(function(){
         if(running!==true){
         var n = parseInt($('.session-time').html());
-        if(n>=1){
+        if(n>=2){
         if($('.description').html()==='Session'){
             seconds = (n-1)*60;
             $('.main-timer').html(displayTime(seconds));
