@@ -24,11 +24,11 @@ $(document).ready(function(){
                 place.apply($('#'+win[m][2]));
                 return 0;
             }
-            else if(compMove.indexOf(win[m][0])>=0&&compMove.indexOf(win[m][2]&&!isFilled.apply($('#'+win[m][1])))>=0){
+            else if(compMove.indexOf(win[m][0])>=0&&compMove.indexOf(win[m][2])>=0&&!isFilled.apply($('#'+win[m][1]))){
                 place.apply($('#'+win[m][1]));
                 return 0;
             }
-            else if(compMove.indexOf(win[m][1])>=0&&compMove.indexOf(win[m][2]&&!isFilled.apply($('#'+win[m][0])))>=0){
+            else if(compMove.indexOf(win[m][1])>=0&&compMove.indexOf(win[m][2])>=0&&!isFilled.apply($('#'+win[m][0]))){
                 place.apply($('#'+win[m][0]));
                 return 0;
             }
