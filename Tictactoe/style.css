@@ -1,0 +1,44 @@
+h1{	
+	font-family: cookie;
+	font-size: 50px;
+	margin: 100px auto 50px;
+	font-weight: bold;
+}
+
+.header{
+    margin:100px;
+}
+
+.container{
+    max-width: 500px;
+}
+
+#button1{
+    margin-right:100px;
+}
+
+.square{
+    width:150px;
+    height:150px;
+    display: inline-block;
+    border: 3px solid black;
+    float:left;
+    font-size: 130px;
+    line-height: 150px;
+
+}
+
+#a,#b,#d,#e,#g,#h{
+    border-right: none;
+}
+
+#a,#b,#c,#d,#e,#f{
+    border-bottom: none;
+}
+
+.X{
+    color:red;
+}
+.O{
+    color:blue;
+}
