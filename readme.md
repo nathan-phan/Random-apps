@@ -1,2 +1,1 @@
-These are various apps I made from online guides and tutorials during the learning process.<br>
-You can find many of my demos here http://codepen.io/nhan711/
+These are like pictures from my childhood album. Full of embarassing stuff but I don't have the heart to delete them
